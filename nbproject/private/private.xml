@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/SPSILVA/Documents/NetBeansProjects/ProjetoBD/src/java/com/br/projetobd/controller/command/FilmeCommand.java</file>
+            <file>file:/C:/Users/SPSILVA/Documents/NetBeansProjects/ProjetoBD/src/java/com/br/projetobd/model/dao/SerieDAO.java</file>
+            <file>file:/C:/Users/SPSILVA/Documents/NetBeansProjects/ProjetoBD/src/java/com/br/projetobd/controller/command/UsuarioCommand.java</file>
+            <file>file:/C:/Users/SPSILVA/Documents/NetBeansProjects/ProjetoBD/src/java/com/br/projetobd/model/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/SPSILVA/Documents/NetBeansProjects/ProjetoBD/web/home.jsp</file>
+            <file>file:/C:/Users/SPSILVA/Documents/NetBeansProjects/ProjetoBD/src/java/com/br/projetobd/model/entities/Serie.java</file>
+            <file>file:/C:/Users/SPSILVA/Documents/NetBeansProjects/ProjetoBD/src/java/com/br/projetobd/model/dao/ConnectionFactory.java</file>
+            <file>file:/C:/Users/SPSILVA/Documents/NetBeansProjects/ProjetoBD/src/java/com/br/projetobd/controller/command/SerieCommand.java</file>
+            <file>file:/C:/Users/SPSILVA/Documents/NetBeansProjects/ProjetoBD/src/java/com/br/projetobd/model/dao/GenericDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
